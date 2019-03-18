@@ -24,7 +24,7 @@ https://vacation-scanner.herokuapp.com/
 
 ## Usage
 1. Replace database URI
-2. cd project
+2. cd project folder
 3. type nodemon in terminal to start application
 
 ###### Server packages
@@ -66,16 +66,16 @@ victory
 ### Learning Objectives
 - HTML5 + CSS3 + Bootstrap 4.0 + JavaScript (ES6)
 - React.js
- * JSX
- * Redux.js
- * React middleware
- * MVC
- * router
+	* JSX
+	* Redux.js
+	* React middleware
+	* MVC
+	* router
 - Node.js
- * Express.js
- * RESTfull application
+	* Express.js
+	* RESTfull application
 - MongoDB
- * Database queries
- * Mongoose ODM
+	* Database queries
+	* Mongoose ODM
 - Web deployment
 	* Heroku
